@@ -13,7 +13,7 @@ Keras==2.2.4
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 matplotlib==2.2.2
-numpy==1.14.3
+numpy==1.22.0
 pandas==0.22.0
 plotly==2.6.0
 ply==3.11
